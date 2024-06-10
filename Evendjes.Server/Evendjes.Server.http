@@ -1,0 +1,6 @@
+@Evendjes.Server_HostAddress = http://localhost:5117
+
+GET {{Evendjes.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
