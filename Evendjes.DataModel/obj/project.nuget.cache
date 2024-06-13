@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9iYEJb5eILB2evsO2TCi/5D8CNxYEwE/6ux3B1A7aXZd74sqbUe4oYhEDqeoz7kXGfR4vslrKf1jzu0LIj3I2A==",
+  "dgSpecHash": "zMwNSKsSw6syeSD+sx11CE+Jt78nVDISqSOaNuWdgpo1bLOg9939CnusnJNm3KMfqgwdWcPeHXDySDY5ZOFfGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.DataModel\\Evendjes.DataModel.csproj",
+  "projectFilePath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.DataModel\\Eventjes.DataModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JasperKlingenAvineon\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\JasperKlingenAvineon\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

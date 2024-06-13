@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9hg+tisMRjJhzuCIDg/V7CXoO3or+cc561DqsuUYmHYeOflSgkLMO50SvPVp1fek9KXVe3x5rh+Co9PxC2A3pw==",
+  "dgSpecHash": "JiDwPDlTvpHiJlx0LMPdjt+Thy/G2vr0K+M4AyK5IkZUZzQXZmLKP9FhhjWutkFDspDAMa+ZyOS4RtgA5oWMVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.Server.Test\\Evendjes.Server.Test.csproj",
+  "projectFilePath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.Server.Test\\Eventjes.Server.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JasperKlingenAvineon\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\JasperKlingenAvineon\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

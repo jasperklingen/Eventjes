@@ -1583,9 +1583,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.Server.Test\\Evendjes.Server.Test.csproj",
-      "projectName": "Evendjes.Server.Test",
-      "projectPath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.Server.Test\\Evendjes.Server.Test.csproj",
+      "projectUniqueName": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.Server.Test\\Eventjes.Server.Test.csproj",
+      "projectName": "Eventjes.Server.Test",
+      "projectPath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.Server.Test\\Eventjes.Server.Test.csproj",
       "packagesPath": "C:\\Users\\JasperKlingenAvineon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.Server.Test\\obj\\",
       "projectStyle": "PackageReference",

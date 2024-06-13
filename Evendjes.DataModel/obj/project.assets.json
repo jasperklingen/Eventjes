@@ -2355,9 +2355,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.DataModel\\Evendjes.DataModel.csproj",
-      "projectName": "Evendjes.DataModel",
-      "projectPath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.DataModel\\Evendjes.DataModel.csproj",
+      "projectUniqueName": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.DataModel\\Eventjes.DataModel.csproj",
+      "projectName": "Eventjes.DataModel",
+      "projectPath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.DataModel\\Eventjes.DataModel.csproj",
       "packagesPath": "C:\\Users\\JasperKlingenAvineon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\JasperKlingenAvineon\\source\\repos\\Eventjes\\Evendjes.DataModel\\obj\\",
       "projectStyle": "PackageReference",

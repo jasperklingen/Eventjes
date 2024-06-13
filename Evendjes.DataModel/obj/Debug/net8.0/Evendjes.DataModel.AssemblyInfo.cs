@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Evendjes.DataModel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3397c17a8bfafc88130452ee4711bddb50404924")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a561c988d1d360c2ac7923bc22fa4212fda15c53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Evendjes.DataModel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Evendjes.DataModel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
