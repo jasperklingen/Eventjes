@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eventjes.Server.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a561c988d1d360c2ac7923bc22fa4212fda15c53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c35a61d3546e87a8ec442e9c60bc62fc97df3cf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eventjes.Server.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eventjes.Server.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
