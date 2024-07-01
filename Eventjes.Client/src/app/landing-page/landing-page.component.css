@@ -1,0 +1,70 @@
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+}
+
+.title {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 24px;
+    margin: 0;
+    letter-spacing: 3px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.upcoming-events {
+    padding: 20px;
+
+}
+
+.upcoming-events h2 {
+    margin-top: 0;
+}
+
+.upcoming-events ul {
+    list-style: none;
+    padding: 0;
+}
+
+.upcoming-events li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.event-details {
+    display: flex;
+    flex-direction: column;
+  }
+.event-name {
+    font-weight: bold;
+}
+
+.event-date {
+    color: #777;
+}
+
+.event-attendees {
+    color: #555;
+    margin-left: 20px;
+}

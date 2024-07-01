@@ -1,0 +1,23 @@
+<div class="banner">
+    <img src="assets/eventjes-logo.png" alt="Logo" class="logo">
+    <h1 class="title">Eventjes</h1>
+    <div class="calender">
+        <img src="assets/calander-icon-placeholder.png" alt="calender icon" class="calender-icon">
+    </div>
+    <div class="profile">
+        <img src="assets/profile-placeholder.png" alt="Profile Picture" class="profile-pic">
+    </div>
+</div>
+
+<div class="upcoming-events">
+    <h2>Upcoming Events</h2>
+    <ul>
+        <li *ngFor="let event of events">
+            <div class="event-details">
+                <span class="event-name">{{ event.name }}</span>
+                <span class="event-date">{{ event.date }}</span>
+            </div>
+            <span class="event-attendees">{{ event.attendees.join(', ') }}</span>
+        </li>
+    </ul>
+</div>
