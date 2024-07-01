@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Eventjes.Server.props" />
-</Project>
